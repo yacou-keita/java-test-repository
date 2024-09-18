@@ -1,1 +1,1 @@
-# digital-banking-sprint-
+# digital-banking-spring-boot
